@@ -3,12 +3,13 @@
     "displayName": "silence-task-presentation",
     "description": "Sets the presetation's close behavior to true and reveal behavior to never",
     "version": "0.0.1",
+    "publisher": "2BitSalute",
     "engines": {
         "vscode": "^1.96.0"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/npm/cli.git"
+        "url": "git+https://github.com/2BitSalute/silence-task-presentation.git"
     },
     "categories": [
         "Other"
