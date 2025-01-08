@@ -1,5 +1,8 @@
 # Silence Task Presentation
 
+Published on Visual Studio Marketplace:
+- https://marketplace.visualstudio.com/items?itemName=2BitSalute.silence-task-presentation
+
 This extension contains one command:
 - `Silence task presentation in tasks.json`
 
